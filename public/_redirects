@@ -1,0 +1,3 @@
+/locations/*   /locations/:splat.html   200
+/profiles/*    /profiles/:splat.html    200
+/*             /index.html               200
